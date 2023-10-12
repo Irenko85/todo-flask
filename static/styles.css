@@ -1,0 +1,25 @@
+.task-done {
+    text-decoration: line-through;
+    color: #cfcfcf;
+}
+
+#tasks {
+    color: white;
+    font-family: 'Rubik', sans-serif;
+}
+
+.rubik {
+    font-family: 'Rubik', sans-serif;
+}
+
+.task-title {
+    color: white;
+    font-weight: bold;
+}
+
+.task-desc {
+    color: #cfcfcf;
+    border-radius: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
